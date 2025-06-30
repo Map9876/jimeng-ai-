@@ -8,3 +8,17 @@ https://chat.deepseek.com/a/chat/s/de6c3a67-1a76-4084-9285-21eabf958576
 https://www.volcengine.com/docs/85621/1544774 
 
 文档首页/即梦AI/接入说明/即梦AI-视频生成/即梦AI-图生视频S2.0Pro
+
+
+火山引擎 即梦
+https://console.volcengine.com/ai/ability/detail/10 开通试用api
+
+（开通图片api可以图生视频，视频api只能文生视频）
+
+https://console.volcengine.com/ai/ability/info/103
+
+计费面板
+
+https://console.volcengine.com/iam/keymanage
+
+开通key和secret
